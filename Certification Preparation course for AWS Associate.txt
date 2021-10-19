@@ -1,0 +1,45 @@
+
+Cloud practioner to start with (dont go for certification)
+
+https://www.youtube.com/watch?v=3hLmDS179YE
+
+Certification Preparation course for AWS Associate
+
+Linux academy (First Priority)
+
+https://linuxacademy.com/course/aws-certified-solutions-architect-2019-associate-level/
+
+OR 
+
+ https://www.udemy.com/course/hashicorp-certified-terraform-associate-devops-masterclass/?couponCode=CA32A4AF551EA2BB6FE0
+ 
+Udemy courses :
+
+Any one from the 3 as main source of preparations (cost 5$-10$)
+
+https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/
+
+https://www.udemy.com/course/aws-certified-solutions-architect-associate/
+
+https://www.udemy.com/course/aws-certified-solutions-architect-associate-hands-on-labs/
+
+Dolfined also in Udemy is also good but costly (INR 4K ) compare to above 3 and covers good basics and in depth
+
+https://www.udemy.com/course/aws-certified-solutions-architect-associate-exam/ 
+
+
+Post preparation from above courses below practice tests are MUST
+
+https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/
+
+Free Readiness test from amazon
+https://www.aws.training/Details/Curriculum?id=20685
+
+
+Some learning contents from aws training site (just to explore services and play along) 
+https://www.aws.training/
+
+
+
+
+

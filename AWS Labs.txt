@@ -1,0 +1,15 @@
+AWS Labs:
+https://aws.amazon.com/getting-started/
+https://aws.amazon.com/getting-started/hands-on/
+https://workshops.aws/
+https://www.wellarchitectedlabs.com/
+https://aws-dojo.com/
+
+
+Serverless:
+https://aws.amazon.com/getting-started/deep-dive-serverless/?e=gs2020&p=gsrc
+https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/?refid=gs_card
+
+CICD
+https://aws.amazon.com/es/blogs/devops/building-a-ci-cd-pipeline-to-update-an-aws-cloudformation-stacksets/
+
